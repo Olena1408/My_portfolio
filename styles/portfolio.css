@@ -163,7 +163,9 @@ footer .contact-box p{
   h3 {
     font-size: 26px;
   }
-  
+  .row {
+    margin-bottom: 50px;
+  }
   
   .content {
     text-align: center;
@@ -202,6 +204,9 @@ footer .contact-box p{
 }
 .content {
   margin: 30px;
+}
+.blue {
+  color: var(--primary-color);
 }
 
 
