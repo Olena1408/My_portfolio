@@ -176,6 +176,8 @@ footer .contact-box p{
 .content h1 {
   font-size: 60px;
   line-height: 80px;
+  font-family: var(--default-font-family);
+  font-weight: 600;
 }
 .content h2 {
   font-size: 18px;
@@ -192,11 +194,15 @@ footer .contact-box p{
 .content-container {
   padding: 50px 20px;
 }
+.content-container h3{
+  color: var(--primary-color);
+}
 .content-container p {
   margin-left: 0;
 }
 .content {
   margin: 30px;
 }
+
 
 
